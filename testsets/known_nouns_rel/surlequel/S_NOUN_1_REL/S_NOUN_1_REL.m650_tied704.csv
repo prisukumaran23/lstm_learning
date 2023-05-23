@@ -1,0 +1,81 @@
+,Paradigm,Gen,Num,Sent,Eval,Corr,Wrong,Dist,corr_word,corr_prob,wrong_word,wrong_prob,answer
+0,S_NOUN_1_REL,F,S,je vois l' aiguille sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.985227,lequel,-4.9532905,1
+1,S_NOUN_1_REL,F,S,je vois l' aile sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.3988373,lequel,-4.971463,1
+2,S_NOUN_1_REL,F,S,je vois l' amande sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.7426658,lequel,-4.7373624,1
+3,S_NOUN_1_REL,F,S,je vois l' ampoule sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-1.722824,lequel,-4.889389,1
+4,S_NOUN_1_REL,F,S,je vois l' épice sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.2068133,lequel,-5.0595193,1
+5,S_NOUN_1_REL,F,S,je vois l' épine sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-4.0549,lequel,-6.3047047,1
+6,S_NOUN_1_REL,F,S,je vois l' unité sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.417283,lequel,-5.037796,1
+7,S_NOUN_1_REL,F,S,je vois l' orange sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-4.9990864,lequel,-4.121022,0
+8,S_NOUN_1_REL,F,S,je vois l' éponge sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.7866225,lequel,-4.5789256,1
+9,S_NOUN_1_REL,F,S,je vois l' épée sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-2.416924,lequel,-5.1899533,1
+10,S_NOUN_1_REL,M,S,je vois l' arbre sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-0.89281744,laquelle,-4.7897873,1
+11,S_NOUN_1_REL,M,S,je vois l' anneau sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-1.241067,laquelle,-5.4566555,1
+12,S_NOUN_1_REL,M,S,je vois l' éclair sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-3.7111971,laquelle,-6.0810127,1
+13,S_NOUN_1_REL,M,S,je vois l' album sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.3652976,laquelle,-5.545891,1
+14,S_NOUN_1_REL,M,S,je vois l' objet sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.090782,laquelle,-5.58111,1
+15,S_NOUN_1_REL,M,S,je vois l' ustensile sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.0878143,laquelle,-5.4749727,1
+16,S_NOUN_1_REL,M,S,je vois l' oignon sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.5676956,laquelle,-5.147667,1
+17,S_NOUN_1_REL,M,S,je vois l' ordinateur sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.2836437,laquelle,-4.827243,1
+18,S_NOUN_1_REL,M,S,je vois l' œuf sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.6947076,laquelle,-6.28391,1
+19,S_NOUN_1_REL,M,S,je vois l' élastique sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-1.9556062,laquelle,-5.119301,1
+20,S_NOUN_1_REL,F,S,on voit l' aiguille sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-4.638311,lequel,-7.433457,1
+21,S_NOUN_1_REL,F,S,on voit l' aile sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.8391833,lequel,-7.0271487,1
+22,S_NOUN_1_REL,F,S,on voit l' amande sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-4.430947,lequel,-7.1396146,1
+23,S_NOUN_1_REL,F,S,on voit l' ampoule sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.1940184,lequel,-6.673029,1
+24,S_NOUN_1_REL,F,S,on voit l' épice sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-5.669073,lequel,-7.9286995,1
+25,S_NOUN_1_REL,F,S,on voit l' épine sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-4.556431,lequel,-7.779501,1
+26,S_NOUN_1_REL,F,S,on voit l' unité sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.464621,lequel,-5.9022326,1
+27,S_NOUN_1_REL,F,S,on voit l' orange sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-5.8625994,lequel,-6.0432577,1
+28,S_NOUN_1_REL,F,S,on voit l' éponge sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.940208,lequel,-6.082582,1
+29,S_NOUN_1_REL,F,S,on voit l' épée sur laquelle je peux écrire <eos>,5,laquelle,lequel,1,laquelle,-3.1680799,lequel,-6.3823247,1
+30,S_NOUN_1_REL,M,S,on voit l' arbre sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-2.1632824,laquelle,-5.884406,1
+31,S_NOUN_1_REL,M,S,on voit l' anneau sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-1.698655,laquelle,-6.172594,1
+32,S_NOUN_1_REL,M,S,on voit l' éclair sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.8725157,laquelle,-6.993696,1
+33,S_NOUN_1_REL,M,S,on voit l' album sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.780624,laquelle,-7.229403,1
+34,S_NOUN_1_REL,M,S,on voit l' objet sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-3.867615,laquelle,-6.7763596,1
+35,S_NOUN_1_REL,M,S,on voit l' ustensile sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.760628,laquelle,-7.8798013,1
+36,S_NOUN_1_REL,M,S,on voit l' oignon sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.897141,laquelle,-7.5613503,1
+37,S_NOUN_1_REL,M,S,on voit l' ordinateur sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.499881,laquelle,-7.261038,1
+38,S_NOUN_1_REL,M,S,on voit l' œuf sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-4.634681,laquelle,-7.63851,1
+39,S_NOUN_1_REL,M,S,on voit l' élastique sur lequel je peux écrire <eos>,5,lequel,laquelle,1,lequel,-3.7564347,laquelle,-6.7886496,1
+40,S_NOUN_1_REL,F,S,je ne vois pas l' aiguille sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.4347098,lequel,-6.0743065,1
+41,S_NOUN_1_REL,F,S,je ne vois pas l' aile sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-2.2938013,lequel,-5.273532,1
+42,S_NOUN_1_REL,F,S,je ne vois pas l' amande sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.1013136,lequel,-4.801344,1
+43,S_NOUN_1_REL,F,S,je ne vois pas l' ampoule sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-1.6792741,lequel,-5.1593585,1
+44,S_NOUN_1_REL,F,S,je ne vois pas l' épice sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.4313066,lequel,-5.2643356,1
+45,S_NOUN_1_REL,F,S,je ne vois pas l' épine sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-4.2217464,lequel,-6.610052,1
+46,S_NOUN_1_REL,F,S,je ne vois pas l' unité sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-2.2364,lequel,-5.335088,1
+47,S_NOUN_1_REL,F,S,je ne vois pas l' orange sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-5.3008294,lequel,-4.8041434,0
+48,S_NOUN_1_REL,F,S,je ne vois pas l' éponge sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.1692104,lequel,-5.1931286,1
+49,S_NOUN_1_REL,F,S,je ne vois pas l' épée sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-2.4530041,lequel,-5.570965,1
+50,S_NOUN_1_REL,M,S,je ne vois pas l' arbre sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-0.8673004,laquelle,-4.5316653,1
+51,S_NOUN_1_REL,M,S,je ne vois pas l' anneau sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-1.6546052,laquelle,-5.773411,1
+52,S_NOUN_1_REL,M,S,je ne vois pas l' éclair sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-4.696007,laquelle,-6.4670486,1
+53,S_NOUN_1_REL,M,S,je ne vois pas l' album sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-3.1486359,laquelle,-5.8865604,1
+54,S_NOUN_1_REL,M,S,je ne vois pas l' objet sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.5496569,laquelle,-5.620121,1
+55,S_NOUN_1_REL,M,S,je ne vois pas l' ustensile sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.1676755,laquelle,-5.569982,1
+56,S_NOUN_1_REL,M,S,je ne vois pas l' oignon sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.8738637,laquelle,-5.3301387,1
+57,S_NOUN_1_REL,M,S,je ne vois pas l' ordinateur sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.2098837,laquelle,-4.8703203,1
+58,S_NOUN_1_REL,M,S,je ne vois pas l' œuf sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.791823,laquelle,-6.1331058,1
+59,S_NOUN_1_REL,M,S,je ne vois pas l' élastique sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-3.0507307,laquelle,-5.7186127,1
+60,S_NOUN_1_REL,F,S,on ne voit pas l' aiguille sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-4.925066,lequel,-7.854494,1
+61,S_NOUN_1_REL,F,S,on ne voit pas l' aile sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.6147614,lequel,-7.365424,1
+62,S_NOUN_1_REL,F,S,on ne voit pas l' amande sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-5.602337,lequel,-7.2523613,1
+63,S_NOUN_1_REL,F,S,on ne voit pas l' ampoule sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.1951025,lequel,-6.64075,1
+64,S_NOUN_1_REL,F,S,on ne voit pas l' épice sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-5.4618855,lequel,-7.021494,1
+65,S_NOUN_1_REL,F,S,on ne voit pas l' épine sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-4.9602404,lequel,-8.207956,1
+66,S_NOUN_1_REL,F,S,on ne voit pas l' unité sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.127407,lequel,-5.581602,1
+67,S_NOUN_1_REL,F,S,on ne voit pas l' orange sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-6.9749675,lequel,-6.3678336,0
+68,S_NOUN_1_REL,F,S,on ne voit pas l' éponge sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-4.546778,lequel,-6.4923587,1
+69,S_NOUN_1_REL,F,S,on ne voit pas l' épée sur laquelle je peux écrire <eos>,7,laquelle,lequel,1,laquelle,-3.9177754,lequel,-7.035179,1
+70,S_NOUN_1_REL,M,S,on ne voit pas l' arbre sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.0752735,laquelle,-6.030797,1
+71,S_NOUN_1_REL,M,S,on ne voit pas l' anneau sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-2.1748364,laquelle,-6.6856318,1
+72,S_NOUN_1_REL,M,S,on ne voit pas l' éclair sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-5.171404,laquelle,-7.129367,1
+73,S_NOUN_1_REL,M,S,on ne voit pas l' album sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-4.829913,laquelle,-7.318863,1
+74,S_NOUN_1_REL,M,S,on ne voit pas l' objet sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-3.8269339,laquelle,-6.912114,1
+75,S_NOUN_1_REL,M,S,on ne voit pas l' ustensile sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-5.3018494,laquelle,-8.644236,1
+76,S_NOUN_1_REL,M,S,on ne voit pas l' oignon sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-5.7406225,laquelle,-8.7998295,1
+77,S_NOUN_1_REL,M,S,on ne voit pas l' ordinateur sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-3.9112475,laquelle,-6.741167,1
+78,S_NOUN_1_REL,M,S,on ne voit pas l' œuf sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-4.7758045,laquelle,-8.087494,1
+79,S_NOUN_1_REL,M,S,on ne voit pas l' élastique sur lequel je peux écrire <eos>,7,lequel,laquelle,1,lequel,-4.2567935,laquelle,-7.7295527,1

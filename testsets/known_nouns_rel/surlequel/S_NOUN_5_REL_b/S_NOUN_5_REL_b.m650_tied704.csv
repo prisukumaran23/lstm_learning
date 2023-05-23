@@ -1,0 +1,81 @@
+,Paradigm,Gen,Num,Sent,Eval,Corr,Wrong,Dist,corr_word,corr_prob,wrong_word,wrong_prob,answer
+0,S_NOUN_5_REL_b,F,S,je vois l' aiguille plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.753282,lequel,-5.3975406,1
+1,S_NOUN_5_REL_b,F,S,je vois l' aile plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.8241181,lequel,-6.764107,1
+2,S_NOUN_5_REL_b,F,S,je vois l' amande plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.8468413,lequel,-6.1198716,1
+3,S_NOUN_5_REL_b,F,S,je vois l' ampoule plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.0196266,lequel,-5.810669,1
+4,S_NOUN_5_REL_b,F,S,je vois l' épice plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.4778914,lequel,-5.6510997,1
+5,S_NOUN_5_REL_b,F,S,je vois l' épine plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.639576,lequel,-7.027769,1
+6,S_NOUN_5_REL_b,F,S,je vois l' unité plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-2.8468165,lequel,-5.6627326,1
+7,S_NOUN_5_REL_b,F,S,je vois l' orange plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-5.9212976,lequel,-4.3921266,0
+8,S_NOUN_5_REL_b,F,S,je vois l' éponge plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.162959,lequel,-5.5670233,1
+9,S_NOUN_5_REL_b,F,S,je vois l' épée plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.238084,lequel,-5.7648983,1
+10,S_NOUN_5_REL_b,M,S,je vois l' arbre plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.6476755,laquelle,-5.4528704,1
+11,S_NOUN_5_REL_b,M,S,je vois l' anneau plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.3953838,laquelle,-5.651517,1
+12,S_NOUN_5_REL_b,M,S,je vois l' éclair plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.319205,laquelle,-5.7275343,1
+13,S_NOUN_5_REL_b,M,S,je vois l' album plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.8119056,laquelle,-6.0304623,1
+14,S_NOUN_5_REL_b,M,S,je vois l' objet plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.2207437,laquelle,-5.2574153,1
+15,S_NOUN_5_REL_b,M,S,je vois l' ustensile plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.486775,laquelle,-5.19305,1
+16,S_NOUN_5_REL_b,M,S,je vois l' oignon plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.5241222,laquelle,-5.4415007,1
+17,S_NOUN_5_REL_b,M,S,je vois l' ordinateur plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.8709054,laquelle,-5.3489804,1
+18,S_NOUN_5_REL_b,M,S,je vois l' œuf plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.4495072,laquelle,-6.18442,1
+19,S_NOUN_5_REL_b,M,S,je vois l' élastique plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-2.6168385,laquelle,-5.2763567,1
+20,S_NOUN_5_REL_b,F,S,on voit l' aiguille plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.88915,lequel,-7.8400817,1
+21,S_NOUN_5_REL_b,F,S,on voit l' aile plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-5.1136985,lequel,-8.484089,1
+22,S_NOUN_5_REL_b,F,S,on voit l' amande plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-5.984619,lequel,-8.930477,1
+23,S_NOUN_5_REL_b,F,S,on voit l' ampoule plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.4617605,lequel,-7.762513,1
+24,S_NOUN_5_REL_b,F,S,on voit l' épice plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.691438,lequel,-7.1549916,1
+25,S_NOUN_5_REL_b,F,S,on voit l' épine plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-6.075951,lequel,-9.101319,1
+26,S_NOUN_5_REL_b,F,S,on voit l' unité plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-3.8370667,lequel,-6.7809544,1
+27,S_NOUN_5_REL_b,F,S,on voit l' orange plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-7.3348346,lequel,-7.334162,0
+28,S_NOUN_5_REL_b,F,S,on voit l' éponge plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-5.9828615,lequel,-8.378158,1
+29,S_NOUN_5_REL_b,F,S,on voit l' épée plus ou moins marron sur laquelle je peux écrire <eos>,9,laquelle,lequel,5,laquelle,-4.266344,lequel,-7.4182434,1
+30,S_NOUN_5_REL_b,M,S,on voit l' arbre plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.7470078,laquelle,-6.4285817,1
+31,S_NOUN_5_REL_b,M,S,on voit l' anneau plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.3190541,laquelle,-6.606961,1
+32,S_NOUN_5_REL_b,M,S,on voit l' éclair plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-5.104068,laquelle,-7.606614,1
+33,S_NOUN_5_REL_b,M,S,on voit l' album plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-4.7347803,laquelle,-7.7639523,1
+34,S_NOUN_5_REL_b,M,S,on voit l' objet plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.409483,laquelle,-6.8188486,1
+35,S_NOUN_5_REL_b,M,S,on voit l' ustensile plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-3.7147014,laquelle,-6.33698,1
+36,S_NOUN_5_REL_b,M,S,on voit l' oignon plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-5.4857216,laquelle,-7.446746,1
+37,S_NOUN_5_REL_b,M,S,on voit l' ordinateur plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-4.187556,laquelle,-6.629417,1
+38,S_NOUN_5_REL_b,M,S,on voit l' œuf plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-5.8592396,laquelle,-8.058275,1
+39,S_NOUN_5_REL_b,M,S,on voit l' élastique plus ou moins marron sur lequel je peux écrire <eos>,9,lequel,laquelle,5,lequel,-4.329415,laquelle,-6.927445,1
+40,S_NOUN_5_REL_b,F,S,je ne vois pas l' aiguille plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-4.0657883,lequel,-6.5614796,1
+41,S_NOUN_5_REL_b,F,S,je ne vois pas l' aile plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-4.0761757,lequel,-7.1495323,1
+42,S_NOUN_5_REL_b,F,S,je ne vois pas l' amande plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-4.3921924,lequel,-6.2831254,1
+43,S_NOUN_5_REL_b,F,S,je ne vois pas l' ampoule plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-3.0545988,lequel,-6.001937,1
+44,S_NOUN_5_REL_b,F,S,je ne vois pas l' épice plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-3.800403,lequel,-5.558439,1
+45,S_NOUN_5_REL_b,F,S,je ne vois pas l' épine plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.1734557,lequel,-6.982248,1
+46,S_NOUN_5_REL_b,F,S,je ne vois pas l' unité plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-2.8291173,lequel,-5.8031707,1
+47,S_NOUN_5_REL_b,F,S,je ne vois pas l' orange plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.986688,lequel,-4.7923255,0
+48,S_NOUN_5_REL_b,F,S,je ne vois pas l' éponge plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-4.489367,lequel,-5.691322,1
+49,S_NOUN_5_REL_b,F,S,je ne vois pas l' épée plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-3.5111022,lequel,-6.1630406,1
+50,S_NOUN_5_REL_b,M,S,je ne vois pas l' arbre plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.921794,laquelle,-5.3697205,1
+51,S_NOUN_5_REL_b,M,S,je ne vois pas l' anneau plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.594664,laquelle,-5.887281,1
+52,S_NOUN_5_REL_b,M,S,je ne vois pas l' éclair plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-4.015212,laquelle,-6.0571947,1
+53,S_NOUN_5_REL_b,M,S,je ne vois pas l' album plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-3.146657,laquelle,-6.070573,1
+54,S_NOUN_5_REL_b,M,S,je ne vois pas l' objet plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.490797,laquelle,-5.606923,1
+55,S_NOUN_5_REL_b,M,S,je ne vois pas l' ustensile plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.577396,laquelle,-5.3779073,1
+56,S_NOUN_5_REL_b,M,S,je ne vois pas l' oignon plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-3.9153962,laquelle,-5.463555,1
+57,S_NOUN_5_REL_b,M,S,je ne vois pas l' ordinateur plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.9952946,laquelle,-5.482785,1
+58,S_NOUN_5_REL_b,M,S,je ne vois pas l' œuf plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-3.758948,laquelle,-6.138378,1
+59,S_NOUN_5_REL_b,M,S,je ne vois pas l' élastique plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-2.908061,laquelle,-5.4421177,1
+60,S_NOUN_5_REL_b,F,S,on ne voit pas l' aiguille plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.474482,lequel,-7.9906955,1
+61,S_NOUN_5_REL_b,F,S,on ne voit pas l' aile plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-6.063222,lequel,-8.879324,1
+62,S_NOUN_5_REL_b,F,S,on ne voit pas l' amande plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-6.5505066,lequel,-8.118857,1
+63,S_NOUN_5_REL_b,F,S,on ne voit pas l' ampoule plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.02257,lequel,-7.802858,1
+64,S_NOUN_5_REL_b,F,S,on ne voit pas l' épice plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.5842032,lequel,-6.4582906,1
+65,S_NOUN_5_REL_b,F,S,on ne voit pas l' épine plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-6.9116125,lequel,-8.920961,1
+66,S_NOUN_5_REL_b,F,S,on ne voit pas l' unité plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-4.5874243,lequel,-7.0854673,1
+67,S_NOUN_5_REL_b,F,S,on ne voit pas l' orange plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-7.4836493,lequel,-6.829364,0
+68,S_NOUN_5_REL_b,F,S,on ne voit pas l' éponge plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-6.462082,lequel,-7.7555866,1
+69,S_NOUN_5_REL_b,F,S,on ne voit pas l' épée plus ou moins marron sur laquelle je peux écrire <eos>,11,laquelle,lequel,5,laquelle,-5.121612,lequel,-7.1706786,1
+70,S_NOUN_5_REL_b,M,S,on ne voit pas l' arbre plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-4.296496,laquelle,-6.456204,1
+71,S_NOUN_5_REL_b,M,S,on ne voit pas l' anneau plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-3.804604,laquelle,-6.916473,1
+72,S_NOUN_5_REL_b,M,S,on ne voit pas l' éclair plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-5.321731,laquelle,-7.0697103,1
+73,S_NOUN_5_REL_b,M,S,on ne voit pas l' album plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-5.0556917,laquelle,-7.7492123,1
+74,S_NOUN_5_REL_b,M,S,on ne voit pas l' objet plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-3.7933397,laquelle,-6.900732,1
+75,S_NOUN_5_REL_b,M,S,on ne voit pas l' ustensile plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-4.3061976,laquelle,-6.5681567,1
+76,S_NOUN_5_REL_b,M,S,on ne voit pas l' oignon plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-5.4839544,laquelle,-7.004533,1
+77,S_NOUN_5_REL_b,M,S,on ne voit pas l' ordinateur plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-4.445046,laquelle,-6.432283,1
+78,S_NOUN_5_REL_b,M,S,on ne voit pas l' œuf plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-5.8665066,laquelle,-7.6351004,1
+79,S_NOUN_5_REL_b,M,S,on ne voit pas l' élastique plus ou moins marron sur lequel je peux écrire <eos>,11,lequel,laquelle,5,lequel,-4.574113,laquelle,-6.9720535,1
