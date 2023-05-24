@@ -1,0 +1,9 @@
+﻿Paradigm ,Clause,Number,Eval,Dist
+S_NOUN_0_PAR,,S,6,0
+S_NOUN_1_PAR,probablement,S,7,1
+S_NOUN_3_PAR,plus ou moins,S,9,3
+S_NOUN_6_PAR,en ce moment qui est probablement,S,12,6
+P_NOUN_0_PAR,,P,6,0
+P_NOUN_1_PAR,probablement,P,7,1
+P_NOUN_3_PAR,plus ou moins,P,9,3
+P_NOUN_6_PAR,en ce moment qui sont probablement,P,12,6

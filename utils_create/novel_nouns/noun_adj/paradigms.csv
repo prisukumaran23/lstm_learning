@@ -1,0 +1,9 @@
+﻿Paradigm ,Clause,Number,Eval,Dist
+S_NOUN_0_ADJ,,S,6,0
+S_NOUN_1_ADJ,très,S,7,1
+S_NOUN_3_ADJ,qui est très,S,9,3
+S_NOUN_6_ADJ,en ce moment qui est probablement,S,12,6
+P_NOUN_0_ADJ,,P,6,0
+P_NOUN_1_ADJ,très,P,7,1
+P_NOUN_3_ADJ,qui sont très,P,9,3
+P_NOUN_6_ADJ,en ce moment qui sont probablement,P,12,6
