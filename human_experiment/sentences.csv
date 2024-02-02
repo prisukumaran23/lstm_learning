@@ -1,0 +1,33 @@
+﻿Agr_Target,Agr_F,Agr_M,Blanks,Gender,Cond,Noun,Learn,Test,Trial_Type
+la,la,le,1,F,A,,"J'ai vu la noun, avant d'être distrait par mon sac violet et de tomber.",On ne voit pas de noun en ce moment qui soit très _____.,test
+la,la,le,1,F,A,,"J'aime la noun, ça me rappelle une délicieuse glace en été.",Je ne trouve jamais de noun ces jours-ci qui soit _____.,test
+le,la,le,1,M,A,,"On voit le noun traverser le ciel à une vitesse incroyable, comme un jet.",Je n'entends pas de noun qui est pourtant normalement assez _____.,test
+le,la,le,1,M,A,,Je tiens le noun dans mes mains mais j'ai senti une coupure sur mon pouce.,Je ne vois pas de noun qui soit plus ou moins _____.,test
+la,la,le,1,F,A_exist_F,montagne,J'ai regardé la montagne et les nuages ​​depuis ma fenêtre pendant des heures.,Je ne vois pas de montagne qui est normalement très ____.,exist_F
+le,la,le,1,M,A_exist_M,parapluie,Nous avons repéré le parapluie dans le parc où nous jouons habituellement au football.,Je ne vois jamais de parapluie ces jours-ci qui soit plus ou moins ____.,exist_M
+la,la,le,1,F,A_new_F,,On peut tenir la noun sur son bras pour que tout le monde l'entende.,Je n'entends pas de noun qui est généralement assez ____.,new_F
+le,la,le,1,M,A_new_M,,Nous admirons le noun qui était derrière les arbres touffus.,Nous ne voyons pas de noun près de nous qui est très _____.,new_M
+la,la,le,1,F,B,,"Nous avons vu la noun dans les montagnes, elle semblait plus grande que les nuages.",Je ne trouve pas de noun en ce moment qui ait été _____.,test
+la,la,le,1,F,B,,"On admire la noun pour sa beauté et ses couleurs vives, comme un arc-en-ciel.",On ne voit pas de noun en ce moment qui ait été _____.,test
+le,la,le,1,M,B,,"Nous observons le noun illuminer la pièce de sa lueur chaleureuse, comme une lanterne.",Nous ne voyons pas de noun près de moi qui ait été _____.,test
+le,la,le,1,M,B,,J'ai mangé le noun de l'assiette et j'ai eu un regain d'énergie.,On ne trouve pas souvent de noun qui n'a pas été _____.,test
+la,la,le,1,F,B_exist_F,fleur,Nous avons adoré la fleur qui était sur le logo.,Je ne vois pas de fleur qui était plus ou moins _____.,exist_F
+le,la,le,1,M,B_exist_M,chien,J'ai suivi le chien autour de la maison trois fois.,Nous ne voyons pas de chien près de nous qui a été ____.,exist_M
+la,la,le,1,F,B_new_F,,J'ai porté la noun pendant une heure et je me sentais en sueur.,Je ne possède pas de noun en ce moment qui n'a pas été ____.,new_F
+le,la,le,1,M,B_new_M,,J'ai admiré le noun parmi de nombreux modèles de la boutique.,Je ne trouve pas de noun qui a été ____.,new_M
+verte,verte,vert,1,F,C,,Je n'aime pas noun verte dans le coin de la pièce.,Je vois noun plus ou moins confortable sur _____ on peut s'asseoir.,test
+dure,dure,dur,1,F,C,,Je ne trouve pas noun dure dans le parc près de chez moi.,On voit noun très populaire et unique sous _____ je pourrais dormir.,test
+important,importante,important,1,M,C,,On ne voit jamais noun important en marchant sur la route principale.,J'ai vu noun populaire mais étrange derrière _____ je marchais.,test
+froid,froide,froid,1,M,C,,Nous n'aimons pas vraiment noun froid dont tout le monde parle.,On a vu noun plus ou moins orange sur _____ je ne peux pas m'asseoir.,test
+brillante,brillante,brillant,1,F,C_exist_F,l'étoile,Nous avons aperçu l'étoile brillante dans le vaste ciel.,J'ai vu l'étoile orange sur ____ j'ai placé un vœu.,exist_F
+délicat,délicate,délicat,1,M,C_exist_M,l'oiseau,Nous avons observé attentivement l'oiseau délicat tout en peignant un tableau.,Je ne vois pas l'oiseau sur ____ nous avions fixé les yeux. ,exist_M
+claire,claire,clair,1,F,C_new_F,,Nous ne trouvons pas noun claire dans la cuisine ou le salon.,Je vois noun plus ou moins visible sur ____ j'ai posé la feuille.,new_F
+intéressant,intéressante,intéressant,1,M,C_new_M,,J'aime vraiment noun intéressant que j'ai acheté hier.,Je n'ai pas remarqué noun sur ____ j'ai placé mon stylo.,new_M
+cassée,cassée,cassé,1,F,D,,Je ne trouve pas noun cassée qui est au fond de mon sac.,J'ai vu noun très marron sur _____ je peux écrire.,test
+déformée,déformée,déformé,1,F,D,,Je n'entends jamais noun déformée pendant la journée ou la nuit.,On voit noun plus ou moins célèbre devant _____ on se tenait.,test
+perdu,perdue,perdu,1,M,D,,On ne trouve pas souvent noun perdu dans une petite épicerie de quartier.,Je vois noun souvent introuvable et rare derrière _____ je suis passé.,test
+ouvert,ouverte,ouvert,1,M,D,,On ne voit pas noun ouvert à une soirée ou un concert.,On a trouvé noun plus ou moins inoubliable sur _____ on dansait.,test
+tombée,tombée,tombé,1,F,D_exist_F,l'abeille,Je déteste l'abeille tombée que j'ai trouvée dans ma soupe.,Je vois l'abeille étrange et horrible sur ____ je pose ma cuillère.,exist_F
+brisé,brisée,brisé,1,M,D_exist_M,l'ordinateur,J'ai placé l'ordinateur brisé sur mon bureau où je travaille et mange.,Je vois l'ordinateur plus ou moins irremplaçable sur ____ j'ai renversé mon eau.,exist_M
+couverte,couverte,couvert,1,F,D_new_F,,J'ai trouvé noun couverte à côté de toutes les boîtes.,j'ai vu noun sous ____ j'ai trouvé mon sac.,new_F
+caché,cachée,caché,1,M,D_new_M,,J'aime normalement noun caché qui est toujours à la télé.,Nous avons retrouvé noun inoubliable sur ____ ils étaient assis.,new_M
